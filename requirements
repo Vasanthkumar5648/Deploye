@@ -4,3 +4,9 @@ plotly==5.13.1
 streamlit==1.22.0
 pandas==1.5.3
 numpy==1.24.2
+plotly>=5.0.0
+streamlit
+scikit-learn
+pandas
+numpy
+joblib
